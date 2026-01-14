@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Ambitious Eve -28 colors-",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2026-01-14T03:17:12.561374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ambitious Eve",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/01_Ambitious_Eve_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ambitious Eve -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/02_Ambitious_Eve_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ambitious Eve -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/03_Ambitious_Eve_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ambitious Eve -25 colors-",
+      "artist": "SHINY COLORS",
+      "has_synced": false,
+      "path": "select/04_Ambitious_Eve_-25_colors-_SHINY_COLORS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ambitious Eve (Off Vocal)",
+      "artist": "SHINY COLORS",
+      "has_synced": false,
+      "path": "select/05_Ambitious_Eve_(Off_Vocal)_SHINY_COLORS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ambitious Eve - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/06_Ambitious_Eve_-_2023_Version_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Ambitious",
+      "artist": "JAY-Z feat. Pharrell Williams",
+      "has_synced": false,
+      "path": "select/07_So_Ambitious_JAY-Z_feat._Pharrell_Williams.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So Ambitious (Feat. Pharrell)",
+      "artist": "Jay-Z",
+      "has_synced": false,
+      "path": "select/08_So_Ambitious_(Feat._Pharrell)_Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Ambitious Girl",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/09_The_Ambitious_Girl_Wale.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ambitious",
+      "artist": "Jeff Beck",
+      "has_synced": true,
+      "path": "select/10_Ambitious_Jeff_Beck.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "So Ambitious (Feat. Pharrell Williams)",
+      "artist": "Jay-Z",
+      "has_synced": false,
+      "path": "select/11_So_Ambitious_(Feat._Pharrell_Williams)_Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So Ambitious",
+      "artist": "Jay‐Z feat. Pharrell",
+      "has_synced": false,
+      "path": "select/12_So_Ambitious_Jay‐Z_feat._Pharrell.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ambitious Outsiders",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/13_Ambitious_Outsiders_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ambitious Goal",
+      "artist": "小林愛香",
+      "has_synced": true,
+      "path": "select/14_Ambitious_Goal_小林愛香.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ambitious",
+      "artist": "Jack Harlow",
+      "has_synced": true,
+      "path": "select/15_Ambitious_Jack_Harlow.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ambitious",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/16_Ambitious_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/17_Girls,_Be_Ambitious._Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Girls, Be Ambitious.",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/18_Girls,_Be_Ambitious._戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "So Ambitious",
+      "artist": "Jay Z",
+      "has_synced": true,
+      "path": "select/19_So_Ambitious_Jay_Z.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Ambitious",
+      "artist": "Robert Calvert",
+      "has_synced": false,
+      "path": "select/20_Ambitious_Robert_Calvert.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Ambitious",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/21_Ambitious_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Ambitious World",
+      "artist": "サトノダイヤモンド (CV. 立花日菜) feat. キタサンブラック (CV. 矢野妃菜喜)",
+      "has_synced": true,
+      "path": "select/22_Ambitious_World_サトノダイヤモンド_(CV._立花日菜)_feat._キタサンブラック_(CV._矢野妃菜喜).lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Hey! Be Ambitious!",
+      "artist": "Happy Around!",
+      "has_synced": true,
+      "path": "select/23_Hey!_Be_Ambitious!_Happy_Around!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ambitious Eve",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Ambitious_Eve_シャイニーカラーズ.txt"
+    }
+  ]
+}
